@@ -11,7 +11,7 @@
 
 
 
-#### Overview of tasks
+#### OVERVIEW OF TASKS
 *****************************************************************************************************************************************************************
 
 1. Counts - Write a Python function called counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So, the input ['A', 'A', 'B', 'C', 'A'] should have output {'A': 3, 'B': 1, 'C': 1} .
@@ -24,7 +24,7 @@
 
 <br/>
 
-#### Packages used in this project
+#### PACKAGES USED IN THIS PROJECT
 ************************************************************************************************************************************************************************
 The following packages were used to run analysis for this project.
 
