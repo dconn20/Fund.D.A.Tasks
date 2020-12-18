@@ -28,9 +28,9 @@
 ************************************************************************************************************************************************************************
 The following packages were used to run analysis for this project.
 
-Python https://www.python.org/downloads/
-
 Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+
+Python https://www.python.org/downloads/ - An interpreted, high-level and general-purpose programming language
 
 iPython https://ipython.org/ - it an interactive command-line terminal for Python.
 
@@ -44,6 +44,22 @@ matplotlib.pylab https://matplotlib.org/ - Python library used for creating stat
 
 seaborn https://seaborn.pydata.org/ - Python data visualization library based on matplotlib
 
-scipy.stats https://docs.scipy.org/doc/scipy/reference/stats.html - Library contains probability distributions as well as statistical functions
+<br/>
 
-scikit-learn https://scikit-learn.org/stable/ - Machine learning library used in Python
+#### INSTRUCTIONS
+*************************************************************************************************************************************************************
+Once you install Anaconda, the packages listed above will also be installed.
+
+First go to link and download the repository
+
+Navigate to the correct folder you saved the repository in on your terminal
+
+You can now run the notebook by typing jupyter notebook in the command prompt
+
+A window or tab should open in your default web browser. If this does not happen the command prompt output will provide a URL which you can copy and paste into your web browser to access jupyter notebook
+
+Double click the jupyter notebook file and the notebook should open in a new tab
+
+When opened, run all cells
+
+Please note that certain cells must be run before others, such as importing the libraries 
