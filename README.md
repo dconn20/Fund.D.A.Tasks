@@ -38,12 +38,12 @@ Numpy http://www.numpy.org/ - is the fundamental package for scientific computin
 
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
 
-pandas https://pandas.pydata.org/
+pandas https://pandas.pydata.org/ - Python library used for for data manipulation and analysis
 
-seaborn https://seaborn.pydata.org/
+matplotlib.pylab https://matplotlib.org/ - Python library used for creating static, animated, and interactive visualizations
 
-scipy.stats https://docs.scipy.org/doc/scipy/reference/stats.html
+seaborn https://seaborn.pydata.org/ - Python data visualization library based on matplotlib
 
-matplotlib.pylab https://matplotlib.org/
+scipy.stats https://docs.scipy.org/doc/scipy/reference/stats.html - Library contains probability distributions as well as statistical functions
 
-scikit-learn https://scikit-learn.org/stable/
+scikit-learn https://scikit-learn.org/stable/ - Machine learning library used in Python
