@@ -50,9 +50,9 @@ Seaborn https://seaborn.pydata.org/ - Python data visualization library based on
 *************************************************************************************************************************************************************
 Once you install Anaconda, the packages listed above will also be installed.
 
-First go to link and download the repository
+First go to https://github.com/dconn20/Fund.D.A.Tasks and download the repository
 
-Navigate to the correct folder you saved the repository in on your terminal
+Navigate to the correct folder on your terminal that you saved the repository in
 
 You can now run the notebook by typing jupyter notebook in the command prompt
 
@@ -60,6 +60,6 @@ A window or tab should open in your default web browser. If this does not happen
 
 Double click the jupyter notebook file and the notebook should open in a new tab
 
-When opened, run all cells
+When opened select run all cells
 
 Please note that certain cells must be run before others, such as importing the libraries 
