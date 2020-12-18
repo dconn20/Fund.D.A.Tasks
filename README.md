@@ -34,15 +34,15 @@ Python https://www.python.org/downloads/ - An interpreted, high-level and genera
 
 iPython https://ipython.org/ - it an interactive command-line terminal for Python.
 
-Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
-
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
 
-pandas https://pandas.pydata.org/ - Python library used for for data manipulation and analysis
+Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 
-matplotlib.pylab https://matplotlib.org/ - Python library used for creating static, animated, and interactive visualizations
+Pandas https://pandas.pydata.org/ - Python library used for for data manipulation and analysis
 
-seaborn https://seaborn.pydata.org/ - Python data visualization library based on matplotlib
+Matplotlib.pylab https://matplotlib.org/ - Python library used for creating static, animated, and interactive visualizations
+
+Seaborn https://seaborn.pydata.org/ - Python data visualization library based on matplotlib
 
 <br/>
 
